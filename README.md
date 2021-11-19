@@ -1,2 +1,2 @@
 # FernsEasternAndes
-This is the repository for the codes used in Riano & Moulatlet.
+This is the repository for the codes and data used in Riaño & Moulatlet(XX).
